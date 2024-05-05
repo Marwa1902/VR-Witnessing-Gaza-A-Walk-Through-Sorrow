@@ -34,3 +34,11 @@ Watch it on Youtube:
 (best to watch with headphones)
 [Witnessing Gaza: A Walk Through Sorrow](https://youtu.be/QVvyQhqZXJE?si=Ff0jJVA_8bTO55fg)
 
+
+p.s
+this project was created in an interval of 1 week, describing that the quality of assests are not at their best.
+also, this was created by group of 4 people, with 2 people working on the idea and other 2 on the environment for vr.
+it was fully created on unity, with coding and animation tools, assets taken from https://sketchfab.com/feed and https://assetstore.unity.com/ .
+the complete project is not uploaded for confidentality and copyright reasons. 
+
+
