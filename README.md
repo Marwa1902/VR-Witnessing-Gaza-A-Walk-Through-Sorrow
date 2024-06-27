@@ -35,7 +35,8 @@ Watch it on Youtube:
 [Witnessing Gaza: A Walk Through Sorrow](https://youtu.be/QVvyQhqZXJE?si=Ff0jJVA_8bTO55fg)
 
 ## Scenes and Audio
-Scenes were taken from live situtation
+Scenes were taken from live situtation and 
+
 Audio was created using an audio editor wth all the live grief and cries of the suffering people.
 
 
