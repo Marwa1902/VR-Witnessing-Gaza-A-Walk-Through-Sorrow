@@ -34,9 +34,11 @@ Watch it on Youtube:
 (best to watch with headphones)
 [Witnessing Gaza: A Walk Through Sorrow](https://youtu.be/QVvyQhqZXJE?si=Ff0jJVA_8bTO55fg)
 
+## Scenes and Audio
+Scenes were taken from live situtation
+Audio was created using an audio editor wth all the live grief and cries of the suffering people.
 
 
-created on Unity with C#
 
 The Project can be found on google drive : https://drive.google.com/file/d/1aQMDK6vA-g6B85MsTQfcAd5TOK_zkIaO/view?usp=sharing
 
